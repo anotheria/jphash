@@ -16,6 +16,7 @@ import java.util.*;
  * Time: 8:25 AM
  * To change this template use File | Settings | File Templates.
  */
+@Ignore
 public class PruningConeTree2Test {
 
     private static final int DIMENSIONS = 40;

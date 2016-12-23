@@ -1,6 +1,7 @@
 package com.pragone.jphash.image.radial;
 
 import org.junit.Assert;
+import org.junit.Ignore;
 import org.junit.Test;
 
 import java.io.IOException;
@@ -13,6 +14,7 @@ import java.io.InputStream;
  * Time: 6:05 PM
  * To change this template use File | Settings | File Templates.
  */
+@Ignore
 public class RadialHashAlgorithmTest {
 
     private static final String EARTH1_HASH = "7cff4651003bc4a2b37a547a978b7b6e7a687c808d7c8688948983767f808c7d79727a7376757473";
